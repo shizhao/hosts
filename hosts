@@ -1,6 +1,22 @@
-#wikipedia images
-91.198.174.234 upload.wikimedia.org
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
 
+127.0.0.1       localhost
 #google +
 203.208.46.176 plus.Google.com
 
@@ -79,7 +95,7 @@
 64.233.189.102 groups.google.com
 
 
-203.208.46.176	youtube.com
+203.208.46.176  youtube.com
 203.208.46.176	www.youtube.com
 203.208.46.176	gdata.youtube.com
 203.208.46.176	m.youtube.com
@@ -698,19 +714,19 @@
 203.208.46.176	v24.lscache8.c.youtube.com
 
 
+199.16.156.7 twitter.com
+199.59.148.15 api.twitter.com
 199.59.149.208 oauth.twitter.com
-199.59.149.208 twitter.com
-199.59.149.208 www.twitter.com
-199.59.149.208 api.twitter.com
+199.16.156.7 www.twitter.com
 199.59.148.201 search.twitter.com
 199.59.148.139 userstream.twitter.com
-199.59.149.208 ssl.twitter.com
-199.59.149.208 status.twitter.com
-199.59.149.208 assets0.twitter.com
-199.59.149.208 assets1.twitter.com
-199.59.149.208 assets2.twitter.com
-199.59.149.208 assets3.twitter.com
-199.59.149.208 static.twitter.com
+199.16.156.7 ssl.twitter.com
+199.16.156.7 status.twitter.com
+199.16.156.7 assets0.twitter.com
+199.16.156.7 assets1.twitter.com
+199.16.156.7 assets2.twitter.com
+199.16.156.7 assets3.twitter.com
+199.16.156.7 static.twitter.com
 184.29.36.124 platform.twitter.com
 219.76.10.138 platform0.twitter.com
 199.59.148.206 help.twitter.com
@@ -721,6 +737,7 @@
 209.84.4.102 si3.twimg.com
 209.84.4.102 si4.twimg.com
 209.84.4.102 si5.twimg.com
+
 
 #facebook
 
