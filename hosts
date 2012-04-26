@@ -1,5 +1,3 @@
-# Copyright (c) 1993-1999 Microsoft Corp.
-#
 # This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
 #
 # This file contains the mappings of IP addresses to host names. Each
@@ -17,10 +15,11 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 127.0.0.1       localhost
-#google +
-203.208.46.176 plus.Google.com
 
-203.208.46.176 talkgadget.google.com
+203.208.45.200 drive.google.com
+#google +
+203.208.45.200 plus.Google.com
+203.208.45.200 talkgadget.google.com
 
 
 #Picasa
